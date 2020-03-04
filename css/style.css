@@ -941,7 +941,8 @@ h1, h2, h3, h4, h5,
   -o-transition: .15s all ease-in-out;
   transition: .15s all ease-in-out; }
   .block-team-member-1 figure img {
-    width: 130px; }
+    width: 130px;
+	height: 130px}
   .block-team-member-1:hover {
     top: -4px;
     border: 1px solid #ced4da;
